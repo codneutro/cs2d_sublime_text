@@ -1,0 +1,730 @@
+{
+   "scope": "source.lua",
+
+   "completions":
+   [
+   		"and",
+   		"break",
+   		"do",
+   		"else",
+   		"elseif",
+   		"in",
+   		"local",
+   		"nil",
+   		"not",
+   		"or",
+   		"repeat",
+   		"return",
+   		"then",
+   		"true",
+   		"until",
+   		"while",
+    	"parse",
+		"ah",
+		"ak47",
+		"alias",
+		"aliases",
+		"attack",
+		"attack2",
+		"aug",
+		"autobuy",
+		"autoscreen",
+		"autoswitch",
+		"awp",
+		"back",
+		"banip",
+		"banname",
+		"bans",
+		"banusgn",
+		"bind",
+		"bot",
+		"bot_add",
+		"bot_add_ct",
+		"bot_add_t",
+		"bot_autofill",
+		"bot_count",
+		"bot_jointeam",
+		"bot_keepfreeslots",
+		"bot_kill",
+		"bot_prefix",
+		"bot_remove",
+		"bot_remove_all",
+		"bot_remove_ct",
+		"bot_remove_t",
+		"bot_skill",
+		"bot_weapons",
+		"bullets",
+		"buy",
+		"buyammo1",
+		"buyammo2",
+		"buyequip",
+		"changelevel",
+		"changemap",
+		"chooseteam",
+		"clientport",
+		"close",
+		"cmsg",
+		"connection",
+		"connections",
+		"console",
+		"copyaddress",
+		"customkill",
+		"damageobject",
+		"deagle",
+		"deathnoticeimg",
+		"deathslap",
+		"debug",
+		"debugai",
+		"debuglog",
+		"debuglua",
+		"debugstats",
+		"defuser",
+		"disconnect",
+		"dmgindicator",
+		"drawradar",
+		"drop",
+		"echo",
+		"effect",
+		"elite",
+		"elites",
+		"endround",
+		"equip",
+		"exec",
+		"exit",
+		"explosion",
+		"famas",
+		"flare",
+		"flash",
+		"flashlight",
+		"flashplayer",
+		"flashposition",
+		"fn57",
+		"forward",
+		"fowalpha",
+		"fowdetails",
+		"fps",
+		"freeprojectile",
+		"g3sg1",
+		"galil",
+		"glock",
+		"gore",
+		"grenademode",
+		"hegren",
+		"hudtxt",
+		"hudtxt2",
+		"hudtxtalphafade",
+		"hudtxtcolorfade",
+		"hudtxtmove",
+		"hud_fastswitch",
+		"hud_takesshots",
+		"include",
+		"invnext",
+		"invprev",
+		"items",
+		"itemshadows",
+		"kick",
+		"kill",
+		"killobject",
+		"killplayer",
+		"lastinv",
+		"left",
+		"lefthand",
+		"listbans",
+		"listplayers",
+		"localport",
+		"logaddress_add",
+		"logaddress_remove",
+		"logaddress_removeall",
+		"logbatch",
+		"logsplit",
+		"logstamp",
+		"lua",
+		"luareset",
+		"m249",
+		"m3",
+		"m4a1",
+		"mac10",
+		"makect",
+		"makespec",
+		"maket",
+		"map",
+		"mapinfo",
+		"maps",
+		"mapshadows",
+		"mapsounds",
+		"markplayer",
+		"memory",
+		"menuselect",
+		"menu_lanscanport",
+		"mp5",
+		"mp_antispeeder",
+		"mp_autogamemode",
+		"mp_autoteambalance",
+		"mp_building_health",
+		"mp_building_limit",
+		"mp_building_price",
+		"mp_buymenu",
+		"mp_buytime",
+		"mp_c4timer",
+		"mp_curtailedexplosions",
+		"mp_damagefactor",
+		"mp_deathdrop",
+		"mp_dispenser_health",
+		"mp_dispenser_money",
+		"mp_dmspawnmoney",
+		"mp_dropgrenades",
+		"mp_flashlight",
+		"mp_floodprot",
+		"mp_floodprotignoretime",
+		"mp_freezetime",
+		"mp_grenaderebuy",
+		"mp_hostagepenalty",
+		"mp_hovertext",
+		"mp_hud",
+		"mp_idleaction",
+		"mp_idlekick",
+		"mp_idletime",
+		"mp_infammo",
+		"mp_kevlar",
+		"mp_kickpercent",
+		"mp_killbuildingmoney",
+		"mp_killbuildings",
+		"mp_killinfo",
+		"mp_killteambuildings",
+		"mp_lagcompensation",
+		"mp_lagcompensationdivisor",
+		"mp_localrconoutput",
+		"mp_luamap",
+		"mp_luaserver",
+		"mp_mapgoalscore",
+		"mp_mapvoteratio",
+		"mp_maxclientsip",
+		"mp_maxrconfails",
+		"mp_natholepunching",
+		"mp_pinglimit",
+		"mp_postspawn",
+		"mp_radar",
+		"mp_randomspawn",
+		"mp_reservations",
+		"mp_respawndelay",
+		"mp_roundlimit",
+		"mp_roundtime",
+		"mp_shotweakening",
+		"mp_smokeblock",
+		"mp_startmoney",
+		"mp_supply_items",
+		"mp_teamkillpenalty",
+		"mp_teleportreload",
+		"mp_tempbantime",
+		"mp_timelimit",
+		"mp_tkpunish",
+		"mp_trace",
+		"mp_turretdamage",
+		"mp_unbuildable",
+		"mp_unbuyable",
+		"mp_vulnerablehostages",
+		"mp_weaponfadeout",
+		"mp_winlimit",
+		"mp_wpndmg",
+		"mp_wpndmg_z1",
+		"mp_wpndmg_z2",
+		"mp_zombiedmg",
+		"mp_zombiekillequip",
+		"mp_zombiekillscore",
+		"mp_zombierecover",
+		"mp_zombiespeedmod",
+		"msg",
+		"name",
+		"netinfo",
+		"nick",
+		"nightvision",
+		"nvgs",
+		"p228",
+		"p90",
+		"particles",
+		"playershadows",
+		"quit",
+		"radio1",
+		"radio2",
+		"radio3",
+		"rcon",
+		"rcon_password",
+		"rcon_pw",
+		"rebuy",
+		"recoil",
+		"relativemovement",
+		"reload",
+		"removeitem",
+		"reroute",
+		"resources",
+		"restart",
+		"restartround",
+		"right",
+		"say",
+		"sayteam",
+		"scout",
+		"screenshot",
+		"server",
+		"serveraction1",
+		"serveraction2",
+		"serveraction3",
+		"serverinfo",
+		"setammo",
+		"setarmor",
+		"setdeaths",
+		"sethealth",
+		"setmaxhealth",
+		"setmoney",
+		"setname",
+		"setpos",
+		"setscore",
+		"setteamscores",
+		"settile",
+		"setweapon",
+		"SG550",
+		"sg552",
+		"sgren",
+		"shadows",
+		"shadowshade_obstacle",
+		"shadowshade_wall",
+		"shadowz_obstacles",
+		"shadowz_wall",
+		"shadow_angle",
+		"shadow_frameskipping",
+		"shake",
+		"shield",
+		"showscores",
+		"slap",
+		"slot0",
+		"slot1",
+		"slot10",
+		"slot2",
+		"slot3",
+		"slot4",
+		"slot5",
+		"slot6",
+		"slot7",
+		"slot8",
+		"slot9",
+		"snapshot",
+		"sounddriver",
+		"soundmode",
+		"spawnitem",
+		"spawnnpc",
+		"spawnobject",
+		"spawnplayer",
+		"spawnprojectile",
+		"specmode",
+		"specplayer",
+		"speed",
+		"speedmod",
+		"spray",
+		"spraycolor",
+		"spraylogo",
+		"strip",
+		"sv_checkusgnlogin",
+		"sv_daylighttime",
+		"sv_forcelight",
+		"sv_fow",
+		"sv_friendlyfire",
+		"sv_gamemode",
+		"sv_gm",
+		"sv_hostport",
+		"sv_lan",
+		"sv_map",
+		"sv_maptransfer",
+		"sv_maxplayers",
+		"sv_msg",
+		"sv_msg2",
+		"sv_name",
+		"sv_password",
+		"sv_rcon",
+		"sv_rconusers",
+		"sv_restart",
+		"sv_restartround",
+		"sv_sound",
+		"sv_sound2",
+		"sv_soundpos",
+		"sv_specmode",
+		"sv_spraytransfer",
+		"sv_stopsound",
+		"sv_usgnonly",
+		"team",
+		"tileanimations",
+		"tmp",
+		"transfer_speed",
+		"trigger",
+		"triggerposition",
+		"ump45",
+		"unban",
+		"unbanall",
+		"unbindall",
+		"use",
+		"usgn_addserver",
+		"usgn_info",
+		"usgn_pw",
+		"usgn_user",
+		"usp",
+		"vest",
+		"vesthelm",
+		"visibleshots",
+		"volume",
+		"vote",
+		"votemap",
+		"votemenu",
+		"weapon",
+		"wiggle",
+		"win",
+		"xm1014",
+		"always",
+		"attack",
+		"attack2",
+		"bombdefuse",
+		"bombexplode",
+		"bombplant",
+		"break",
+		"build",
+		"buildattempt",
+		"buy",
+		"clientdata",
+		"collect",
+		"die",
+		"dominate",
+		"drop",
+		"endround",
+		"flagcapture",
+		"flagtake",
+		"flashlight",
+		"hit",
+		"hitzone",
+		"hostagerescue",
+		"join",
+		"kill",
+		"leave",
+		"log",
+		"mapchange",
+		"menu",
+		"minute",
+		"move",
+		"movetile",
+		"ms100",
+		"name",
+		"objectdamage",
+		"objectkill",
+		"objectupgrade",
+		"parse",
+		"projectile",
+		"radio",
+		"rcon",
+		"reload",
+		"say",
+		"sayteam",
+		"second",
+		"select",
+		"serveraction",
+		"shieldhit",
+		"shutdown",
+		"spawn",
+		"specswitch",
+		"spray",
+		"startround",
+		"startround_prespawn",
+		"suicide",
+		"team",
+		"trigger",
+		"triggerentity",
+		"use",
+		"usebutton",
+		"vipescape",
+		"vote",
+		"walkover",
+		{
+			"trigger": "addhook",
+			"contents": "addhook(${1:string hook}, ${2:string func}, ${3:number priority})"
+		},
+		{
+			"trigger": "ai_aim",
+			"contents": "ai_aim(${1:number id}, ${2:number x}, ${3:number y})"
+		},
+		{
+			"trigger": "ai_attack",
+			"contents": "ai_attack(${1:number id}, ${2:number secondary=0})"
+		},
+		{
+			"trigger": "ai_build",
+			"contents": "ai_build(${1:number id}, ${2:number building},  ${3:number x}, ${4:number y})"
+		},
+		{
+			"trigger": "ai_buy",
+			"contents": "ai_buy(${1:number id}, ${2:number itemtype}"
+		},
+		{
+			"trigger": "ai_debug",
+			"contents": "ai_debug(${1:number id}, ${2:string text}"
+		},
+		{
+			"trigger": "ai_drop",
+			"contents": "ai_drop(${1:number id}"
+		},
+		{
+			"trigger": "ai_findtarget",
+			"contents": "ai_findtarget(${1:number id})"
+		},
+		{
+			"trigger": "ai_freeline",
+			"contents": "ai_freeline(${1:number id}, ${2:number x}, ${3:number x}"
+		},
+		{
+			"trigger": "ai_goto",
+			"contents": "ai_goto(${1:number id}, ${2:number x}, ${3:number x}, ${4:number walk=0}"
+		},
+		{
+			"trigger": "ai_iattack",
+			"contents": "ai_iattack(${1:number id})"
+		},
+		{
+			"trigger": "ai_move",
+			"contents": "ai_move(${1:number id}, ${2:number angle}, ${3:number walk=0})"
+		},
+		{
+			"trigger": "ai_radio",
+			"contents": "ai_radio(${1:number id}, ${2:number radioid})"
+		},
+		{
+			"trigger": "ai_reload",
+			"contents": "ai_reload(${1:number id})"
+		},
+		{
+			"trigger": "ai_respawn",
+			"contents": "ai_respawn(${1:number id})"
+		},
+		{
+			"trigger": "ai_rotate",
+			"contents": "ai_rotate(${1:number id}, ${2:number angle})"
+		},
+		{
+			"trigger": "ai_say",
+			"contents": "ai_say(${1:number id}, ${2:string text})"
+		},
+		{
+			"trigger": "ai_sayteam",
+			"contents": "ai_sayteam(${1:number id}, ${2:string text})"
+		},
+		{
+			"trigger": "ai_selectweapon",
+			"contents": "ai_selectweapon(${1:number id}, ${2:number itemtype})"
+		},
+		{
+			"trigger": "ai_spray",
+			"contents": "ai_spray(${1:number id})"
+		},
+		{
+			"trigger": "ai_use",
+			"contents": "ai_use(${1:number id})"
+		},
+		{
+			"trigger": "checksumfile",
+			"contents": "checksumfile(${1:string path})"
+		},
+		{
+			"trigger": "checksumstring",
+			"contents": "checksumstring(${1:string str})"
+		},
+		{
+			"trigger": "closehostage",
+			"contents": "closehostage(${1:number id})"
+		},
+		{
+			"trigger": "closeitems",
+			"contents": "closeitems(${1:string path}, ${2:number range})"
+		},
+		{
+			"trigger": "closeobjects",
+			"contents": "closeobjects(${1:number x}, ${2:number y}, ${3:number radius}, ${4:number type=nil})"
+		},
+		{
+			"trigger": "entity",
+			"contents": "entity(${1:number x}, ${2:number y}, ${3:string value})"
+		},
+		{
+			"trigger": "entitylist",
+			"contents": "entitylist(${1:number type=nil})"
+		},
+		{
+			"trigger": "freehook",
+			"contents": "freehook(${1:string hook}, ${2:string func})"
+		},
+		{
+			"trigger": "freeimage",
+			"contents": "freeimage(${1:number id})"
+		},
+		{
+			"trigger": "freetimer",
+			"contents": "freetimer(${1:string func=nil}, ${2:string p=nil})"
+		},
+		{
+			"trigger": "funcs",
+			"contents": "funcs()"
+		},
+		{
+			"trigger": "game",
+			"contents": "game(${1:string value})"
+		},
+		{
+			"trigger": "hostage",
+			"contents": "hostage(${1:number id}, ${2:string value})"
+		},
+		{
+			"trigger": "image",
+			"contents": "image(${1:string path}, ${2:number x}, ${3:number y}, ${4:number mode}, ${5:number pl=nil})"
+		},
+		{
+			"trigger": "imagealpha",
+			"contents": "imagealpha(${1:number id}, ${2:number alpha})"
+		},
+		{
+			"trigger": "imageblend",
+			"contents": "imageblend(${1:number id}, ${2:number mode})"
+		},
+		{
+			"trigger": "imagecolor",
+			"contents": "imagecolor(${1:number id}, ${2:number red}, ${3:number green}, ${4:number blue})"
+		},
+		{
+			"trigger": "imageframe",
+			"contents": "imageframe(${1:number id}, ${2:number frame})"
+		},
+		{
+			"trigger": "imagehitzone",
+			"contents": "imagehitzone(${1:number id}, ${2:number mode}, ${3:number x-offset=nil}, ${4:number y-offset=nil}, ${5:number width=nil}, ${6:number height=nil})"
+		},
+		{
+			"trigger": "imagepos",
+			"contents": "imagepos(${1:number id}, ${2:number x}, ${3:number y}, ${4:number rot})"
+		},
+		{
+			"trigger": "imagescale",
+			"contents": "imagescale(${1:number id}, ${2:number x}, ${3:number y})"
+		},
+		{
+			"trigger": "inentityzone",
+			"contents": "inentityzone(${1:number x}, ${2:number y}, ${3:number type})"
+		},
+		{
+			"trigger": "item",
+			"contents": "item(${1:number id}, ${2:string value})"
+		},
+		{
+			"trigger": "itemtype",
+			"contents": "itemtype(${1:number type}, ${2:string value})"
+		},
+		{
+			"trigger": "map",
+			"contents": "map(${1:string value})"
+		},
+		{
+			"trigger": "menu",
+			"contents": "menu(${1:number id}, ${2:string menu-content})"
+		},
+		{
+			"trigger": "msg",
+			"contents": "msg(${1:string text})"
+		},
+		{
+			"trigger": "msg2",
+			"contents": "msg2(${1:number id}, ${2:string text})"
+		},
+		{
+			"trigger": "object",
+			"contents": "object(${1:number id}, ${2:string value})"
+		},
+		{
+			"trigger": "objectat",
+			"contents": "objectat(${1:number x}, ${2:number y}, ${3:number type=nil})"
+		},
+		{
+			"trigger": "parse",
+			"contents": "parse(${1:string commands}, ${2:bool stop-at-semicolon=1})"
+		},
+		{
+			"trigger": "player",
+			"contents": "player(${1:number id}, ${2:string value})"
+		},
+		{
+			"trigger": "playerweapons",
+			"contents": "playerweapons(${1:number id})"
+		},
+		{
+			"trigger": "print",
+			"contents": "print(${1:string text})"
+		},
+		{
+			"trigger": "projectile",
+			"contents": "projectile(${1:number id}, ${2:number player}, ${3:string value})"
+		},
+		{
+			"trigger": "projectilelist",
+			"contents": "projectilelist(${1:number list=0}, ${2:number player=0})"
+		},
+		{
+			"trigger": "randomentity",
+			"contents": "randomentity(${1:number type}, ${2:number ai-state=-1}, ${3:number int0=-1})"
+		},
+		{
+			"trigger": "randomhostage",
+			"contents": "randomhostage(${1:number unused=nil})"
+		},
+		{
+			"trigger": "reqcld",
+			"contents": "reqcld(${1:number id}, ${2:number mode}, ${3:number parameter=nil})"
+		},
+		{
+			"trigger": "setentityaistate",
+			"contents": "setentityaistate(${1:number x}, ${2:number y}, ${3:number ai})"
+		},
+		{
+			"trigger": "sethookstate",
+			"contents": "sethookstate(${1:string hook}, ${2:number enable=1})"
+		},
+		{
+			"trigger": "stats",
+			"contents": "stats(${1:number usgnid}, ${2:string value})"
+		},
+		{
+			"trigger": "tile",
+			"contents": "tile(${1:number x}, ${2:number y}, ${3:string value})"
+		},
+		{
+			"trigger": "timer",
+			"contents": "timer(${1:number time}, ${2:string function}, ${3:number parameter=nil}, ${4:number count=nil})"
+		},
+		{
+			"trigger": "tween_alpha",
+			"contents": "tween_alpha(${1:number id}, ${2:number time}, ${3:number alpha})"
+		},
+		{
+			"trigger": "tween_color",
+			"contents": "tween_color(${1:number id}, ${2:number time}, ${3:number r}, ${4:number g}, ${5:number b})"
+		},
+		{
+			"trigger": "tween_move",
+			"contents": "tween_move(${1:number id}, ${2:number time}, ${3:number x}, ${4:number y}, ${5:number rot=nil})"
+		},
+		{
+			"trigger": "tween_rotate",
+			"contents": "tween_rotate(${1:number id}, ${2:number time}, ${3:number rot})"
+		},
+		{
+			"trigger": "tween_rotateconstantly",
+			"contents": "tween_rotateconstantly(${1:number id}, ${2:number speed})"
+		},
+		{
+			"trigger": "tween_scale",
+			"contents": "tween_scale(${1:number id}, ${2:number time}, ${3:number x}, ${4:number y})"
+		},
+		{
+			"trigger": "vars",
+			"contents": "vars()"
+		},
+   ]
+}
